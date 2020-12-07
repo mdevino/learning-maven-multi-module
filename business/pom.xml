@@ -11,7 +11,6 @@
         <dependency>
             <groupId>com.in28minutes</groupId>
             <artifactId>data</artifactId>
-            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
