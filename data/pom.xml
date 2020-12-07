@@ -6,4 +6,15 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>data</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+        </dependency>
+    </dependencies>
 </project>
